@@ -2,7 +2,7 @@
 Python implementation of GAN and DCGAN using pytorch\
 Based on the following papers:\
 GAN - https://arxiv.org/pdf/1406.2661.pdf \
-DCGAN - https://arxiv.org/pdf/1511.06434.pdf \
+DCGAN - https://arxiv.org/pdf/1511.06434.pdf 
 
 The results from training for 30 epochs is as follows:
 ![Gif](./Images/anim2.gif)
